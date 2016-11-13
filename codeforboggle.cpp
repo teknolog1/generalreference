@@ -6,7 +6,7 @@
 
 using namespace std;
 
-// code for c++ boggle..
+// code for c++ boggle word finding..
 // new map becomes a prefix tree data structure which represents the letters to print..
 struct t_node
 {
